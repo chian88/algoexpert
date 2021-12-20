@@ -1,0 +1,721 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program",
+            "request": "launch",
+            "mainClass": "AncestralTree.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program2",
+            "request": "launch",
+            "mainClass": "AncestralTree.Program2",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program$BST",
+            "request": "launch",
+            "mainClass": "BSTConstruction.Program$BST",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(1)",
+            "request": "launch",
+            "mainClass": "BSTTraversal.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(2)",
+            "request": "launch",
+            "mainClass": "BalancedBracket.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(3)",
+            "request": "launch",
+            "mainClass": "BinarySearch.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(4)",
+            "request": "launch",
+            "mainClass": "BinaryTreeDiameter.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(5)",
+            "request": "launch",
+            "mainClass": "BranchSum.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch BranchSums",
+            "request": "launch",
+            "mainClass": "BranchSums",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(6)",
+            "request": "launch",
+            "mainClass": "BreathFirstSearch.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(7)",
+            "request": "launch",
+            "mainClass": "BubbleSort.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(8)",
+            "request": "launch",
+            "mainClass": "CaesarCipherEncryptor.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClosestBST",
+            "request": "launch",
+            "mainClass": "ClosestBST",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch CoinGame",
+            "request": "launch",
+            "mainClass": "CoinGame",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(9)",
+            "request": "launch",
+            "mainClass": "ContinuousMedianHandler.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(10)",
+            "request": "launch",
+            "mainClass": "CycleInGraph.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(11)",
+            "request": "launch",
+            "mainClass": "DepthFirstSearch.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(12)",
+            "request": "launch",
+            "mainClass": "DiskStacking.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(13)",
+            "request": "launch",
+            "mainClass": "FindClosestValueInBST.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(14)",
+            "request": "launch",
+            "mainClass": "FindLoop.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(15)",
+            "request": "launch",
+            "mainClass": "FindSuccessor.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(16)",
+            "request": "launch",
+            "mainClass": "FindThreeLargestNum.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(17)",
+            "request": "launch",
+            "mainClass": "FirstDuplicateValue.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(18)",
+            "request": "launch",
+            "mainClass": "FourNumberSum.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(19)",
+            "request": "launch",
+            "mainClass": "GenerateDocument.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(20)",
+            "request": "launch",
+            "mainClass": "GroupAnagram.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(21)",
+            "request": "launch",
+            "mainClass": "HeapSort.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(22)",
+            "request": "launch",
+            "mainClass": "HeightBalancedTree.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(23)",
+            "request": "launch",
+            "mainClass": "IndexEqualsValue.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(24)",
+            "request": "launch",
+            "mainClass": "InvertBinaryTree.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(25)",
+            "request": "launch",
+            "mainClass": "KLargestValueBST.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(26)",
+            "request": "launch",
+            "mainClass": "Knapsack.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch LIS",
+            "request": "launch",
+            "mainClass": "LIS",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(27)",
+            "request": "launch",
+            "mainClass": "LargestRange.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(28)",
+            "request": "launch",
+            "mainClass": "LevenshteinDistance.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(29)",
+            "request": "launch",
+            "mainClass": "LinkedListConstruction.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(30)",
+            "request": "launch",
+            "mainClass": "LongestCommonSubsequence.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(31)",
+            "request": "launch",
+            "mainClass": "LongestIncreasingSubsequence.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(32)",
+            "request": "launch",
+            "mainClass": "LongestPalindromicSubstring.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(33)",
+            "request": "launch",
+            "mainClass": "LongestStringChain.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(34)",
+            "request": "launch",
+            "mainClass": "MaxSubset.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(35)",
+            "request": "launch",
+            "mainClass": "MaxSumIncreasingSubsequence.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(36)",
+            "request": "launch",
+            "mainClass": "MaxSumSubmatrix.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(37)",
+            "request": "launch",
+            "mainClass": "MergeOverlappingIntervals.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(38)",
+            "request": "launch",
+            "mainClass": "MergeSort.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinCost",
+            "request": "launch",
+            "mainClass": "MinCost",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(39)",
+            "request": "launch",
+            "mainClass": "MinHeap.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(40)",
+            "request": "launch",
+            "mainClass": "MinHeightBST.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(41)",
+            "request": "launch",
+            "mainClass": "MinMaxStack.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(42)",
+            "request": "launch",
+            "mainClass": "MinNumOfJumps.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(43)",
+            "request": "launch",
+            "mainClass": "MinNumberOfCoinsForChange.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(44)",
+            "request": "launch",
+            "mainClass": "MinReward.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(45)",
+            "request": "launch",
+            "mainClass": "MinWaitTime.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Result",
+            "request": "launch",
+            "mainClass": "MinimumLoss.Result",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(46)",
+            "request": "launch",
+            "mainClass": "MonotonicArray.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch NodeDepth",
+            "request": "launch",
+            "mainClass": "NodeDepth",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(47)",
+            "request": "launch",
+            "mainClass": "NodeDepth.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(48)",
+            "request": "launch",
+            "mainClass": "NonAttackingQueen.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(49)",
+            "request": "launch",
+            "mainClass": "NthFibonacci.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(50)",
+            "request": "launch",
+            "mainClass": "NumberOfWayToMakeChange.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(51)",
+            "request": "launch",
+            "mainClass": "NumberOfWaysToTraverseGraph.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(52)",
+            "request": "launch",
+            "mainClass": "PalindromePartioningMinCut.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(53)",
+            "request": "launch",
+            "mainClass": "Permutations.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(54)",
+            "request": "launch",
+            "mainClass": "Powerset.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(55)",
+            "request": "launch",
+            "mainClass": "ProductSum.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(56)",
+            "request": "launch",
+            "mainClass": "Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(57)",
+            "request": "launch",
+            "mainClass": "QuickSort.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(58)",
+            "request": "launch",
+            "mainClass": "Quickselect.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(59)",
+            "request": "launch",
+            "mainClass": "RadixSort.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(60)",
+            "request": "launch",
+            "mainClass": "ReconstructBST.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(61)",
+            "request": "launch",
+            "mainClass": "RectangleMania.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(62)",
+            "request": "launch",
+            "mainClass": "RemoveDuplicateLinkedList.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(63)",
+            "request": "launch",
+            "mainClass": "RemoveIsland.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(64)",
+            "request": "launch",
+            "mainClass": "RemoveKthNodeFromEnd.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(65)",
+            "request": "launch",
+            "mainClass": "ReverseWordInString.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(66)",
+            "request": "launch",
+            "mainClass": "RiverSize.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(67)",
+            "request": "launch",
+            "mainClass": "RunLengthEncoding.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(68)",
+            "request": "launch",
+            "mainClass": "SameBST.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(69)",
+            "request": "launch",
+            "mainClass": "SearchForRange.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(70)",
+            "request": "launch",
+            "mainClass": "SelectionSort.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(71)",
+            "request": "launch",
+            "mainClass": "ShiftedBinarySearch.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(72)",
+            "request": "launch",
+            "mainClass": "SingleCycleCheck.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(73)",
+            "request": "launch",
+            "mainClass": "SmallestDifference.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(74)",
+            "request": "launch",
+            "mainClass": "SolveSudoku.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(75)",
+            "request": "launch",
+            "mainClass": "SortKSortedArray.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(76)",
+            "request": "launch",
+            "mainClass": "SortedSquaredArray.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(77)",
+            "request": "launch",
+            "mainClass": "SpiralTraverse.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(78)",
+            "request": "launch",
+            "mainClass": "StaircaseTraversal.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Station",
+            "request": "launch",
+            "mainClass": "Station",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(79)",
+            "request": "launch",
+            "mainClass": "SubarraySort.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(80)",
+            "request": "launch",
+            "mainClass": "SumOfLinkedList.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(81)",
+            "request": "launch",
+            "mainClass": "ThreeNumSort.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(82)",
+            "request": "launch",
+            "mainClass": "ThreeNumberSum.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(83)",
+            "request": "launch",
+            "mainClass": "TwoSum.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(84)",
+            "request": "launch",
+            "mainClass": "ValidateSubsequence.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(85)",
+            "request": "launch",
+            "mainClass": "ValidateThreeNodes.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(86)",
+            "request": "launch",
+            "mainClass": "WaterArea.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(87)",
+            "request": "launch",
+            "mainClass": "maxProfitWithKTransaction.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch maxScore",
+            "request": "launch",
+            "mainClass": "maxScore",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(88)",
+            "request": "launch",
+            "mainClass": "numbersInPi.Program",
+            "projectName": "src_c1d1db13"
+        },
+        {
+            "type": "java",
+            "name": "Launch shortest_path",
+            "request": "launch",
+            "mainClass": "shortest_path",
+            "projectName": "src_c1d1db13"
+        }
+    ]
+}
